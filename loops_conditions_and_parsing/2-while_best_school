@@ -2,8 +2,8 @@
 # This while loop prints Best School 10 times
 
 i=1
-while [$i -le 10];
+while [ $i -le 10 ];
 do
 	echo "Best School"
-	i=$i+1
+	((i++))
 done
