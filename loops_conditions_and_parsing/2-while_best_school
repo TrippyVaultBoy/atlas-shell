@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This while loop prints Best School 10 times
 while [$I -le 10]
 do
 	echo "Best School"
