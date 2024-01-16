@@ -1,4 +1,5 @@
 #!/user/bin/env bash
+# a for loop which prints "Best School" 10 times
 for ((i=0;i<10;i++));
 	echo "Best School"
 done
