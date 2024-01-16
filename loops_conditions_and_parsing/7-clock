@@ -12,5 +12,7 @@ do
 	while [ $minutes -le 59 ];
 	do
 		echo $minutes
-		hour=hour+1
+		minutes=minutes+1
+	done
+	hour=hour+1
 done
