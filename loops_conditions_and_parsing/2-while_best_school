@@ -2,7 +2,7 @@
 # This while loop prints Best School 10 times
 
 I=1
-while [$I -le 10];
+while [$I -le 10]
 do
 	echo "Best School"
 	let $I=$I+1
